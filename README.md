@@ -12,4 +12,5 @@ My career goals and my overall vision in life are highly intertwined - I am goin
 
 ## Why did you choose FinTech as a career path?
 
-To create an impact on this planet requires large financial resources. This is something I have learned through experience. Ultimately, I aim to leave an impace on this planet through my creativity, funded through my impact investing and financial skills learned through this course and I know the future is FinTech.
+To create an impact on this planet requires financial resources. This is something I have learned through experience. Ultimately, I aim to leave an impace on this planet through my creativity, funded through my impact investing and financial skills learned through this course and I know the future is FinTech. I chose FinTech because my old passion for coding has been revived and I want to implement that skill in creative ways to generate abundance.
+
